@@ -1,3 +1,5 @@
+[![deploy orginal](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alexabotin/File-Sharing-Bot)
+
 # File-sharing-Bot
 
 <p align="center">
